@@ -13,23 +13,58 @@
 
 ---
 
-## 📖 About
+## 🏆 Project Completed with 100%
 
-**Piscine Reloaded** is a set of exercises created by **42** to reinforce basic programming concepts learned in the original Piscine.  
-Topics include:
+<div align="justify">
 
-- Basic C operations  
-- Pointers, arrays, and strings  
-- Recursion  
-- Simple mathematical functions  
-- Macros and `structs`  
-- File manipulation  
-- Shell scripting  
-- Makefile usage  
+I successfully achieved a 100% grade on the 42 Piscine Reloaded project! 🚀 This means that all exercises were validated with the highest score, following the strict guidelines of the 42 grading system.
 
-This repository contains my solutions organized in folders.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16987181-0110-4d8f-aa2b-db049d43f72c" alt="image" hspace="20"/>
+  <img src="https://github.com/user-attachments/assets/87277939-1c93-4ff4-8526-fe4c12521f53" alt="image" hspace="20"/>
+</p>
+</div>
+
+
+
+Building a solid foundation in the Common Core starts with mastering the concepts introduced in Piscine Reloaded.
+This project revisits essential C programming topics that you’ll rely on throughout the curriculum, including:
+
+  - Dynamic memory handling (allocation and freeing)
+
+  - Working with strings and arrays
+
+  - Control flow with recursion and loops
+
+  - Fundamental algorithms and structured logic
+
+Reaching the maximum score demonstrates a strong grasp of these basics, making the transition to future projects much smoother. For anyone preparing for the Common Core, completing this project with 100% is highly recommended! 🚀
+
+## 🎯 Tips for Piscine Reloaded
+
+    ✅ Pay close attention to the subject – even small details can affect the result.  
+    ✅ Stick to the allowed functions – avoid using restricted ones like `printf()` in some tasks.  
+    ✅ Run norminette often – keeping your code within 42’s standards saves time later.  
+    ✅ Test thoroughly – try edge cases to uncover hidden bugs.  
+    ✅ Write clear comments – it will help you (and others) understand the code later.  
+    ✅ Don’t be afraid to ask – teamwork is encouraged, but always make sure you truly understand the fix.  
 
 ---
+
+## 📂 Repository Structure
+
+    📦 42-Piscine_Reloaded  
+    ┣ 📂 ex00  
+    ┃ ┗ 📜 exo.tar  
+    ┣ 📂 ex05  
+    ┃ ┗ 📜 "\?$*’MaRViN’*$?\"
+    ┣ 📂 ex15  
+    ┃ ┗ 📜 ft_putstr.c
+    ┣ 📂 ex20  
+    ┃ ┗ 📜 ft_strdup.c
+    ┗ ...  
+
+---    
 
 ## ⚙️ How to Use
 
@@ -40,21 +75,6 @@ git clone https://github.com/FMancaDev/42-Piscine_Reloaded.git
 cd 42-Piscine_Reloaded
 ```
 
-## 🗂 Repository Structure
-
-```text
-piscine-reloaded/
-├── ex00/
-├── ex01/
-├── ...
-├── ex27/
-├── Makefile
-├── README.md
-├── images/      # optional images (e.g., score)
-├── resources/   # exercise PDFs / docs (optional)
-└── tests/       # test scripts (optional)
-```
-
 ---
 
 ## 🛠 Requirements
@@ -63,18 +83,6 @@ piscine-reloaded/
 - `make`  
 - Unix/Linux/macOS environment  
 - (Optional) bash/zsh for scripts  
-
----
-
-## 🏆 My Score
-
-Here you can add your Piscine Reloaded score.  
-Include a screenshot of your evaluation:
-
-![My Score](images/score.png)
-
-> Replace `images/score.png` with the actual path to your screenshot.  
-> You can create an `images/` folder and add the screenshot there for better organization.
 
 ---
 
@@ -90,15 +98,6 @@ To contribute, follow these steps:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-See [LICENSE](./LICENSE) for details.
-
----
-
 ## 👤 Author
 
-- **[Your Name]**  
-- 🌐 GitHub: [your-username](https://github.com/your-username)  
-- 📧 Email: (optional)  
+- 🌐 GitHub: [FMancaDev](https://github.com/FMancaDev)   

@@ -11,7 +11,7 @@
 
 ## 📌 Index
 
-- [About](#about)  
+- [About](#About)  
 - [Exercises](#exercises)  
 - [How to Use](#how-to-use)  
 - [Repository Structure](#repository-structure)  

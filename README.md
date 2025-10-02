@@ -1,9 +1,11 @@
 # Piscine Reloaded 🐚💻
 
-[![42 Network](https://img.shields.io/badge/42-Network-blue.svg)](https://42.fr)  
-[![Language](https://img.shields.io/badge/lang-C-orange.svg)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
-[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+<p align="center">
+  <a href="https://42.fr"><img src="https://img.shields.io/badge/42-Network-blue.svg"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/lang-C-orange.svg"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
+</p>
 
 > Repository with my solutions for **Piscine Reloaded**, a collection of exercises from 42 focusing on C fundamentals and Unix shell scripting.
 

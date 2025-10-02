@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://42.fr"><img src="https://img.shields.io/badge/42-Network-blue.svg"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/lang-C-orange.svg"></a>
+  <img src="https://img.shields.io/badge/shell-bash-lightgrey.svg">
+  <img src="https://img.shields.io/badge/makefile-automation-yellow.svg">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
 </p>

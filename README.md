@@ -40,7 +40,7 @@ This project revisits essential C programming topics that you’ll rely on throu
 
 Reaching the maximum score demonstrates a strong grasp of these basics, making the transition to future projects much smoother. For anyone preparing for the Common Core, completing this project with 100% is highly recommended! 🚀
 
-## 🎯 Tips for Piscine Reloaded
+## 🎯 Best Practices for Piscine Reloaded
 
     ✅ Pay close attention to the subject – even small details can affect the result.  
     ✅ Stick to the allowed functions – avoid using restricted ones like `printf()` in some tasks.  

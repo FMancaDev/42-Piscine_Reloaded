@@ -27,42 +27,7 @@ Topics include:
 - Shell scripting  
 - Makefile usage  
 
-This repository contains my solutions organized in folders, with Makefile and optional test scripts.
-
----
-
-## 📂 Exercises
-
-| Exercise | Description |
-|-----------|-----------|
-| ex00 | File creation / permissions / dates |
-| ex01 | Print “Z” |
-| ex02 | Script to find and delete temporary files |
-| ex03 | Script to find `.sh` files |
-| ex04 | Show machine MAC addresses |
-| ex05 | Special file containing `42` |
-| ex06 | `ft_print_alphabet` |
-| ex07 | `ft_print_numbers` |
-| ex08 | `ft_is_negative` |
-| ex09 | `ft_ft` — assignment via pointer |
-| ex10 | `ft_swap` |
-| ex11 | `ft_div_mod` |
-| ex12 | `ft_iterative_factorial` |
-| ex13 | `ft_recursive_factorial` |
-| ex14 | `ft_sqrt` |
-| ex15 | `ft_putstr` |
-| ex16 | `ft_strlen` |
-| ex17 | `ft_strcmp` |
-| ex18 | Display command-line arguments |
-| ex19 | Sort and display parameters |
-| ex20 | `ft_strdup` |
-| ex21 | `ft_range` |
-| ex22 | `ABS` macro |
-| ex23 | `ft_point.h` with `struct` |
-| ex24 | Makefile (`all`, `clean`, `fclean`, `re`) |
-| ex25 | `ft_foreach` |
-| ex26 | `ft_count_if` |
-| ex27 | `ft_display_file` |
+This repository contains my solutions organized in folders.
 
 ---
 
@@ -71,34 +36,9 @@ This repository contains my solutions organized in folders, with Makefile and op
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/piscine-reloaded.git
-cd piscine-reloaded
+git clone https://github.com/FMancaDev/42-Piscine_Reloaded.git
+cd 42-Piscine_Reloaded
 ```
-
-2. Compile with `make`:
-
-```bash
-make
-```
-
-- `make all` → compile all exercises  
-- `make clean` → remove `.o` files  
-- `make fclean` → remove executables + `.o`  
-- `make re` → recompile everything
-
-3. Run an exercise:
-
-```bash
-./exXX   # where XX is the exercise number
-```
-
-4. (Optional) Run tests:
-
-```bash
-./tests/test_exXX.sh
-```
-
----
 
 ## 🗂 Repository Structure
 

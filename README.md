@@ -13,20 +13,6 @@
 
 ---
 
-## 📌 Index
-
-- [About](#About)  
-- [Exercises](#exercises)  
-- [How to Use](#how-to-use)  
-- [Repository Structure](#repository-structure)  
-- [Requirements](#requirements)  
-- [My Score](#my-score)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Author](#author)
-
----
-
 ## 📖 About
 
 **Piscine Reloaded** is a set of exercises created by **42** to reinforce basic programming concepts learned in the original Piscine.  

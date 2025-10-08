@@ -20,8 +20,8 @@
 I successfully achieved a 100% grade on the 42 Piscine Reloaded project! 🚀 This means that all exercises were validated with the highest score, following the strict guidelines of the 42 grading system.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16987181-0110-4d8f-aa2b-db049d43f72c" alt="image" hspace="20"/>
-  <img src="https://github.com/user-attachments/assets/87277939-1c93-4ff4-8526-fe4c12521f53" alt="image" hspace="20"/>
+  <img src="https://github.com/user-attachments/assets/c5d6c2fd-fdf1-4f56-b902-e9306aab563c" alt="image" hspace="20"/>
+  <img src="https://github.com/user-attachments/assets/d46e38ca-fb65-46d0-ac75-6aeafbdf89b2" alt="image" hspace="20"/>
 </p>
 </div>
 
@@ -58,10 +58,10 @@ Reaching the maximum score demonstrates a strong grasp of these basics, making t
     ┃ ┗ 📜 exo.tar  
     ┣ 📂 ex05  
     ┃ ┗ 📜 "\?$*’MaRViN’*$?\"
-    ┣ 📂 ex15  
-    ┃ ┗ 📜 ft_putstr.c
-    ┣ 📂 ex20  
-    ┃ ┗ 📜 ft_strdup.c
+    ┣ 📂 ex19  
+    ┃ ┗ 📜 ft_sort_params.c
+    ┣ 📂 ex24  
+    ┃ ┗ 📜 Makefile
     ┗ ...  
 
 ---    
